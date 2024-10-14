@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!-- scripts in package.json makes the project ready for production or scripts are used to make a React project work:- 
+                    1. The start script in a React project is used to start the development server or (start script used to make a React
+                       project work in development enviornment)
+                    2. build script is responsible for bundling and optimizing your code for production.
+                    3. the test script is used to run tests and verify that the code is working as expected.
+                    4. the eject script is used to gain full control over the build configuration.
+                    
+    ->ESLint, a popular linting tool that helps ensure your code follows specific style and quality rules.
+    ->browserslist is a configuration used in modern web development projects (including React) to specify the target browsers and 
+      versions that your application should support.
+    -> developmet : It defines which browser versions should be supported while developing your application.  -->
